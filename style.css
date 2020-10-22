@@ -1,0 +1,38 @@
+body{
+    background-image: url(imgs/pexels-photo-2170473.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.main-content{
+  max-height: 100vh !important;
+  max-width: 100vw !important;
+}
+  
+  /* Add some content at the bottom of the video/page */
+  .content {
+    width:100%;
+   /*background: rgba(0, 0, 0, 0.5);*/
+    color: #f1f1f1;
+  }
+  .content,h1 {
+    padding-top: 12% !important;
+    padding-right: 0 !important ;
+    
+  }
+  
+  #titulo{
+    font-size: 52px;
+    font-style: oblique;
+    letter-spacing: 24px;
+    padding-left: 12%;
+    padding-top: 35%;
+  }
+
+ 
